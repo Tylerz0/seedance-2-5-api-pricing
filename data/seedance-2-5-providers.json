@@ -1,0 +1,42 @@
+[
+  {
+    "provider": "BytePlus / Volcengine",
+    "model": "Seedance 2.5",
+    "availability_status": "monitoring",
+    "pricing_status": "not_published",
+    "last_checked": "2026-06",
+    "notes": "Official Seedance 2.5 API pricing has not been publicly published yet."
+  },
+  {
+    "provider": "OpenRouter",
+    "model": "Seedance 2.5",
+    "availability_status": "monitoring",
+    "pricing_status": "not_published",
+    "last_checked": "2026-06",
+    "notes": "No public Seedance 2.5 pricing found yet."
+  },
+  {
+    "provider": "fal.ai",
+    "model": "Seedance 2.5",
+    "availability_status": "monitoring",
+    "pricing_status": "not_published",
+    "last_checked": "2026-06",
+    "notes": "No public Seedance 2.5 pricing found yet."
+  },
+  {
+    "provider": "PiAPI",
+    "model": "Seedance 2.5",
+    "availability_status": "monitoring",
+    "pricing_status": "not_published",
+    "last_checked": "2026-06",
+    "notes": "No public Seedance 2.5 pricing found yet."
+  },
+  {
+    "provider": "Kie.ai",
+    "model": "Seedance 2.5",
+    "availability_status": "monitoring",
+    "pricing_status": "not_published",
+    "last_checked": "2026-06",
+    "notes": "No public Seedance 2.5 pricing found yet."
+  }
+]
